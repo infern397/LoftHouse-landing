@@ -56,7 +56,7 @@ function init() {
         `
     }, {
         iconLayout: 'default#image',
-        iconImageHref: '/img/map/location-pin.svg',
+        iconImageHref: './img/map/location-pin.svg',
         icon_imagesize: [40, 40],
         iconImageOffset: [-20, -40]
     });
